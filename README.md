@@ -18,6 +18,10 @@ Automatic quantity updates
 Filtering, ordering, and search
 
 -----------
+Permissions
+Authenticated staff users can create and modify data
+
+Unauthenticated and not staff users have read‑only access
 
 Main Endpoints:
 /categories/
