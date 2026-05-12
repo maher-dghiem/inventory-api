@@ -1,8 +1,10 @@
-Inventory API
+Inventory API:
 A clean and scalable Inventory Management API built with Django REST Framework.
 It manages categories, suppliers, products, and stock movements, with full support for filtering, ordering, and search.
 
-Features
+-----------
+
+Features:
 Category management (CRUD)
 
 Supplier management (CRUD)
@@ -15,7 +17,9 @@ Automatic quantity updates
 
 Filtering, ordering, and search
 
-Main Endpoints
+-----------
+
+Main Endpoints:
 /categories/
 
 /suppliers/
